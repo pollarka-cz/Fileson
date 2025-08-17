@@ -1,0 +1,68 @@
+﻿stranka;ID;inf_rok_nar;inf_mec_nar;inf_den_nar;inf_cp;inf_fm;inf_jmeno1;inf_jmeno_dalsi;inf_vice_jmen;rodinne_prijmeni;otec_jmeno;otec_povolani;otec_otec_jmeno;otec_otec_povolani;otec_otec_bydliste;otec_otec_bydliste_cp;otec_matka_jmeno;otec_matka_otec_jmeno;matka_otce_prijmeni;otec_matka_otec_povolani;matka_otce_bydliste;matka_otce_bydliste_cp;;matka_jmeno;;matka_rodne_prijmeni;otec_matky_jmeno;otec_matky_povolani;otec_matky_bydliste;otec_matky_bydliste_cp;matka_matky_jmeno;matka_matka_otec_jmeno;matka_matka_prijmeni;matka_matka_otec_povolani;matka_matka_bydliste;matka_matka_bydliste_cp
+259;1;1840;brezen;16;31;m;Josef;;n;Bernat;Jan;;Jan;chalupník;Kl.Chvalovice;31;Elisabeth;Tomáš;Bernat;;Kl.Chvalovice;31;;Marie;;Rada;Václav;chalupník;Dobrovítov;28;Anna;Mathias;Schovanec;;Dobrovítov;28
+259;2;1840;brezen;24;42;f;Maria;;n;Kovařík;Josef;;Johan;;Kl.Chvalovice;1;Barbora;n;Barták?;;S….?;15;;Marie;;Siku…;Johan;;Kl.Chvalovice;5;Anna;Jakub;Růt;;Kl.Chvalovice;5
+259;3;1840;duben;11;5;m;Josef;;n;Weber /Vebr;Josef;;Johan;;Kl.Chvalovice;42;Anna;Jakub;Prchal??;;Leština?;7;;Rosalia;;Z/V…;Johan;;M? B…;41;Maria;Antona;H…;;Kl.Chvalovice;1
+260;4;1840;duben;19;12;m;Tomáš;;n;K..z..l;Josef;;;;;;Františka;Josef;;;St…ov;13;;Magdalena;;K..;Johan;;Kl.Chvalovice;17;Magdalena;Johan;W…;;Vlkaneč;20
+260;5;1840;kveten;2;54;f;Anna;;n;Bernat;Jan;sedlák;Jan;;Kl.Chvalovice;40;Kateřina;;K;;Kl.Chvalovice;18;;Barbora;;Sekot;Václav;;Kl.Chvalovice;54;Barbora;Mathias;Korel?;;Kl.Chvalovice;35
+260;6;1840;kveten;31;49;f;Anna;;n;Zikmunda;František;sedlák;Martin;;Šebestenice ?;15;Elisabeth;;Komžak;;Šebestenice?;16;;Kateřina;;Ostatnický;Thomas;;Pila? (ves);1;Anna;n;K…..;;Kl.Chvalovice;1
+261;7;1840;cerven;4;28;f;Anna;;n;Bernat;n/a;;n/a;;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;;Barbora;;Bernat;Johan;chalupník;Kl.Chvalovice;28;Kateřina;Vojtěch;Bláha;;Kl.Chvalovice;7
+261;8;1840;cerven;17;38;m;František;;n;Sektot;Václav;;Johan;;Kl.Chvalovice;21;Kateřina;Václav;Kohout;;Dvorek;1;;Marie;;S…..;Franz;;Kl.Chvalovice;38;Anna;Václav;H;;Zbýšov;6
+261;9;1840;srpen;9;10;m;Václav;;n;Zadina;Josef;sedlák;Václav;;Kl.Chvalovice;19;Theresie;Václav;Kl…..;;Ro….ov;27;;Anna;;Malina;Václav;;Kl.Chvalovice;20;Kateřina;Johan;Vrána;;Vlkaneč;17
+262;10;1840;srpen;20;37;m;Josef;;n;Komžak;Václav;;Jan;;Kl.Chvalovice;;Barbora;Josef;Barták?;;Hraběšín;9;;Anna;;Čálek;Josef;;Kl.Chvalovice;26;Kateřina;Joseef;Bernat;chalupník;Kl.Chvalovice;25
+262;11;1840;srpen;25;59;m;Václav;;n;Prchal ?;Mathias;;Johan;;Kynice;22;Maria;Johan;K….bský;;Tunochody;13;;Anna;;Martínek;Franz;;Kl.Chvalovice;;Maria;Mathias;Komžak;;Kl.Chvalovice;15
+262;12;1840;srpen;29;5;m;Josef;;n;Z…..;Antonín;;Johan;;K…...;6;Barbora;Mathias;S….da;chalupník;N…ov;3;;Josefa;;Mišička;Mathias;;Kl.Chvalovice;63;Anna;Johan;K…dl?;chalupník;Močovice;5
+263;13;1840;zari;12;55;m;Karel;;n;Sektot;Josef;;Jakub;;Kl.Chvalovice;13;Barbora;Václav;Malina;;Kl.Chvalovice;16;;Barbora;;Hába;Václav;;Kl.Chvalovice;55;Johana;Johan;Kuklič?;;Chlum;7
+263;14;1840;zari;14;13;m;Josef;;n;Pros;František;;Josef;;;7;Marie;Vojtěch;Maršík;;Roznotín;7;;Anna;;Skoupý;Josef;;Kl.Chvalovice;27;Mariena;Jakub;K...k;;Zbýšov;5
+263;15;1840;zari;30;52;m;Josef;;n;Komžak;n/a;;n/a;;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;;Anna;;Komžak? ;Jakub;;Tunochody;13;Barbora;n;n;n;n;n
+264;16;1840;listopad;16;24;m;František;;n;Schovanec? ;Josef;;Václav;;Kl.Chvalovice;24;Magdalena;Josef;Peca;;Kamenná Lhota;1;;Anna;;Vlček;Václav;;Kl.Chvalovice;9;Anna;Tomáš;Bárta?;;Proseč;5
+264;17;1841;unor;13;40;m;František;Xaver;a;Schovanec /Hubner/Koudelka/raisig /Kosina;Jan;;Wenzl;;Kl.Chvalovice;24;Magdalena;Josef;Peca;;Kamenná Lhota;1;;Anna;;Kostelecký?;Wenzl;;Kl.Chvalovice;40;Anna;Johan;Vrba / Vebr;;Kl.Chvalovice;6
+265;18;1841;brezen;14;57;f;Barbora;;n;Zelený;Jan;;Jakub;;VLkaneč;4;Barbora;n;St….ý;;Přibram???;26;;Ludmila;;Volenec?;Georg;;Kozohlody;15;Dorota;Václav;Volenec?;;Močovice;5
+265;19;1841;brezen;24;19;f;Maria;;n;Zadina;Václav;sedlák;Václav;výminkář;Kl.Chvalovice;19;Theresie;Josef;Kl…..;;R….;5;;Barbora;;Bernat;Johnan;chalupník;Kl.Chvalovice;31;Elisabeth;n;Bernat;;Kl.Chvalovice;31
+265;20;1841;duben;4;1;f;Maria;;n;Bartůněk;Jan;domkář;Josef;půlnsedlák;Kl.Chvalovice;8;Barbora;Josef;Tesař;familiant;Paběnice;1;;Barbora;;Nevole;Karel;kolář;Kl.Chvalovice;1;Anna;Josef;Smutný;domkář;Bratčice;10
+265;21;1841;cerven;7;43;m;Václav;;n;Foreit;Mathias;;Franz;;Kl.Chvalovice;43;Kateřina;n;Korel;;Kl.Chvalovice;45;;Veronika;;Zikmunda;A…..;;Kl.Chvalovice;34;Magdalena;Václav;H;;Kl.Chvalovice;23
+266;22;1841;cerven;15;35;f;Anna;;n;Sektot;Jan;;Václav;;Kl.Chvalovice;35;Barbora;Mathias;K…;;Kl.Chvalovice;19;;Barbora;;Málek?;Thomas;;Damírov;28;Rosalie;Anton;H;;T…;1
+266;23;1841;cerven;17;47;f;Anna;;n;Bartůněk;Josef;;Václav;;Opatovice?;47;Barbora;;Kutílek;;Opatovice?;36;;Anna;;Sekot;Jakub;domkář;Kl.Chvalovice;13;Barbora;Václav;Malina;;Kl.Chvalovice;16
+266;24;1841;cervenec;5;41;f;Maria;;n;Limberský??;Václav;;Anton;;Nová Ves;19;Magdalena;Johan;Bernat?;;Kl.Chvalovice;31;;Anna;;Kunášek? ;Tomáš;;Kl.Chvalovice;8;Anna;Johan;K…;;Č…;1
+267;25;1841;srpen;18;44;m;František;;n;Pařízek;Josef;;Josef;;Kl.Chvalovice;44;Barbora;Mathias;Habáček??;;Kl.Chvalovice;16;;Kateřina;;Sekot;Jakub;;Kl.Chvalovice;15;Barbora;Václav;Malina;;Kl.Chvalovice;10
+267;26;1841;zari;22;46;m;Václav;;n;Bernat;Václav;;Josef;;Kl.Chvalovice;46;Veronika;Vojtěch;Sekot;chalupník;Kl.Chvalovice;21;;Kateřina;;Bláha;Johan;;Kl.Chvalovice;46;Kateřina;Václav;Málek??;;Kl.Chvalovice;30
+267;27;1841;říjen;2;45;m;Johan;;n;Blaha?;Josef;;Johan;;Kl.Chvalovice;46;Kateřina;Wenzl;Málek;;Kl.Chvalovice;30;;Kateřina;;Štastný??;Franz;;Čejkovice;23;Anna;n;Bernat;;Zbýšov;17
+268;28;1841;rijen;16;45;m;Johan;;n;Bernat;Jan;;Josef;;Kl.Chvalovice;45;Veronika;Johan;Sekot;;Kl.Chvalovice;21;;Marie;;Mařák?;Georg;chalupník;Souboř?;11;Kateřina;Martin;Harzog?;;Kl.Chvalovice;23
+268;29;1841;listopad;27;55;m;Augustin;;n;Sektot;Josef;;Jakub;;Kl.Chvalovice;13;Barbora;Václav;Malina;;Kl.Chvalovice;16;;Barbora;;Hába;Václav;;Kl.Chvalovice;55;Johana;Johan;Kuklič?;;Chlum;7
+268;30;1841;listopad;30;14;f;Maria;;n;Sektot;Jakub;;Wenzl;;Kl.Chvalovice;14;Kateřina;Václav;B…h..k;;Kozohlody? ;7;;Barbora;;P…..;Václav;;Kl.Chvalovice;18;Ludmila;Václav;Schovanec;;Dobrovítov;30
+269;31;1842;leden;25;13;f;Maria;;n;St….k;František;sedlák;Mathias;;Kutná Hora /Kutenberg;;Kateřina;n;n;;n;5;;Magdalena;;Kořínek?;Václav;;Vlkaneč?;15;Kateřina;n;M…;;Fridnava;15
+269;32;1842;unor;10;39;f;Barbora;;n;Výborný;František;;Mathias;;D;14;Kateřina;Václav;Beran? ;;Opatovice;37;;Kateřina;;Fl…;Wenzl;;Kozohlody;7;Rosalie;Johan;Kůrka;;Paběnice?;14
+269;33;1842;unor;10;48;m;Josef;;n;Bernat;Václav;;Jan;;Kl.Chvalovice;48;Kateřina;Mathias;Komžak;;Kl.Chvalovice;22;;Anna;;Nevole;Karel;;Kl.Chvalovice;1;Anna;Anna;Smutný;;Bratčice;28
+270;34;1842;unor;28;1;f;Barbora;;n;Korel?;Tomáš;;Johan;;Kl.Chvalovice;1;Elisabeth;n;Nekola?;;Kl.Chvalovice;44;;Barbora;;Růžička;Johan;familiant;Pucheř;1;Kateřina;n;K….;familiant;Pucheř;11
+270;35;1842;kveten;1;23;m;Mathias;;n;Výborný;Václav;;Josef;;Čejkovice;6;Magdalena;n;K….;chalupník;Chlum;10;;Anna;;Bernat??;Josef;;Kl.Chvalovice;23;Anna;Wenzl;Bartůněk;familiant;Petrovice;17
+270;36;1842;kveten;5;51;f;Maria;;n;Koudelka /Kůdelka;Václav;;Johan;;Potěhy;1;Elisabeth;n;B…;;Potěhy;31;;Barbora;;Michálek;Bernard?;;C..;1;M;?;?;;;
+271;37;1842;kveten;7;31;f;Maria;;n;Bernat;Jan;;Jan;chalupník;Kl.Chvalovice;31;Elisabeth;Tomáš;Bernat;chalupník;Kl.Chvalovice;31;;Marie;;Rada;Václav;chalupník;Dobrovítov;28;Anna;Mathias;Schovanec;;Dobrovítov;28
+271;38;1842;kveten;7;10;f;Barbora;;n;Nováček;Jan;;Jakub;;Zbudovice;10;Kateřina;Thomas;B…..;;Zbudovice;1;;Barbora;;Z…;Václav;;Kl.Chvalovice;19;Barbora;Johan;Bernat;;Kl.Chvalovice;31
+271;39;1842;kveten;21;63;f;Veronika;;n;Korel;Václav;;Jan;;Kl.Chvalovice;45;Elisabeth;Josef;Nekola?;;Kl.Chvalovice;43;;Anna;;Mišička;Mathias;;Kl.Chvalovice;63;Anna;Georg??;K..dln;;V…;7
+272;40;1842;kveten;21;24;f;Maria;;n;Schovanec;Josef;;Václav;;Kl.Chvalovice;24;Magdalena;Josef;Peca;;Lhotka;1;;Anna;;Vlček;Václav;;Kl.Chvalovice;9;Anna;Tomáš;Barta?;;Proseč;5
+272;41;1842;kveten;25;33;m;Václav;;n;Vrána;Václav;;Jan;;Zbudovice;6;Elisabeth;Jan;Čížek;;Močovice;15;;Kateřina;;Čuda;Mathias;chalupník;V…..;15;Kateřina;Mathias;S/D….al;;H…;7
+272;42;1842;kveten;29;34;f;Barbora;;n;Zikmunda;Jan;;Jan;;Kl.Chvalovice;34;Magdalena;Martin;H..;;Kl.Chvalovice;23;;Anna;;Výborný;Josef;;Čejkovice;6;Kateřina;Vojtěch;Výborný;;Čejkovice;13
+273;43;1842;cerven;5;64;m;Josef;;n;Bláha;Jan;;Johan;;Kl.Chvalovice;46;Kateřina;Václav;Malek?;;Kl.Chvalovice;30;;Kateřina;;Nešpor?;Franz;;Svatý Jan;12;Anna;Josef;B…;;J….;1
+273;44;1842;cerven;18;24;m;Josef;;n;Kohout;n/a;;n/a;;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;;Barbora;;Kohout;Josef;chalupník;Kl.Chvalovice;20;Barbora;Vojtěch;Sekot;;Kl.Chvalovice;20
+273;45;1842;srpen;30;8;m;Václav;;n;Zelený???;Josef;;Josef;;Kl.Chvalovice;29;Anna;Jakub;V…s..k;;Šebestenice;20;;Marie;;Černý??;Wenzl;;Dobrovítov;19;Anna;Jakub;Linhart;;Dobrovítov;23
+274;46;1842;rijen;3;18;f;Rozálie;;n;Čížek;František;;Wenzl;;Čejkovice?;18;Barbora;Martin;Komžak?;;Čejkovice;7;;Marie;;Chl….d/s;Johan;;Habry??;215;Rosalie;Václav;E…;;Habry??;219
+274;47;1842;rijen;17;28;m;Johan;;n;Bernat;Jan;;Johan;;Kl.Chvalovice;28;Kateřina;Adalbert;Bláha;;Kl.Chvalovice;7;;Barbora;;Bernat??;Josef;;Kl.Chvalovice;23;Anna;Václav;Bartůněk;familiant;Opatovice;13
+274;48;1842;prosinec;12;5;f;Antonie;;n;Vrba;Josef;;Johan;;Kl.Chvalovice;7;Anna;Johan;Prchal;;Leština?;40;;Rosalia;;W;Anton;;B…..k;80;Maria;Antonín;H…;;K…;1
+275;49;1842;prosinec;23;7;f;Barbora;;n;Sekot;Václav;;Johan;;Kl.Chvalovice;21;Kateřina;Wenzl;Kohout;;Domek?;;;Marie;;St…..;Franz;;Kl.Chvalovice;27;Anna;Adalbert;M.ha;;Zbýšov;17
+275;50;1843;leden;18;45;m;Václav;;n;Bláha?;Josef;;Johan;;Kl.Chvalovice;46;Kateřina;Wenzl;Marek?;;Kl.Chvalovice;30;;Anna;;Štastný?;Franz;;Čejkovice;23;Anna;Bernard;Mucha;;Zbýšov;17
+276;51;1843;leden;23;37;m;Josef;;n;Bartůněk? ;Josef;;Johan;;Kl.Chvalovice;1;Barbora;B….;H…;;Hraběšín?;9;;Anna;;Čálek;Wenzl;;Kl.Chvalovice;26;Kateřina;Josef;Bernat;chalupník;Kl.Chvalovice;25
+276;52;1843;leden;29;15;m;Anton;;n;Bartůněk? ;Mathias;;Mathias;;Kl.Chvalovice;15;Anna;Wenzl;N…;;Prosíčka?;6;;Anna;;Goll;Wenzl;;Zbýšov;1;Kateřina;Wenzl;Kincl?;;P…...;7
+276;53;1843;leden;31;1;m;Josef;;n;Korel;n/a;;n/a;;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;;Anna;;Korel?;Thomas;;Kl.Chvalovice;1;Barbora;Johan;Kůžička;familiant;P…...;4
+277;54;1843;unor;3;16;m;Josef;;n;Novotný;Václav;;Jan;;Kl.Chvalovice;16;Magdalena;Václav;Malina;;Kl.Chvalovice;16;;Marie;;Zikmunda;Josef;;Šebestenice;15;Františka;Josef;Z…..k;;K;11
+277;55;1843;unor;19;53;m;František;;n;Bouza / Březina ? ;Václav;;Franz;;Kl.Chvalovice;53;Maria;Johan;Klečák???;;Opatovice /Petrovice ? ;20;;Kateřina;;Mařák / Mrňák;Georg;familiant;Souboř?;16;Kateřina;Martin;Harzog?;;Kl.Chvalovice;23
+277;56;1843;brezen;12;7;f;Františka;;n;Bláha;Jan;;Vojtěch;;Kl.Chvalovice;7;Anna;Václav;H…;;Kl.Chvalovice;23;;Kateřina;;Raisig;Mathias;;Kl.Chvalovice;58;Margareth;?;Be….;;Kl.Chvalovice;53
+278;57;1843;brezen;15;56;m;Josef;;n;Smidal?;František;;Josef;;Sk…..;10;Elisabeth;Ferdinand;H;;R…d…;51;;Agnes;;Franz;Franz;;Kl.Chvalovice;56;Maria;Franz;Sobotka;;Velim?;61
+278;58;1843;brezen;25;27;m;František;;n;Pros;František;;Josef;;H.;7;Marie;;Černohub;;Roznotín;6;;Anna;;Skoupý;Josef;;Kl.Chvalovice;4;Marie;Jakub;Kutílek;;Šebestenice;17
+278;59;1843;duben;12;49;m;Tomáš;;n;Zikmunda;František;;Martin;;Šebestenice ?;15;Elisabeth;;Komžak;;Sk…;14;;Kateřina;;Ostatnický;Thomas;;V;10;Anna;n;Gut;;Kl.Chvalovice;58
+279;60;1843;duben;12;2;m;Antonín;;n;Skoupý?;František;;Wenzl;;Hraběšín;3;Elisabeth;Mathias;Komžak;;Kl.Chvalovice;11;;Marie;;Vebr/Vrba;??;;St…;1;Františka;CH;P;;B…/Chrudim;128
+279;61;1843;duben;18;63;m;Josef;;n;Korel;Josef;;;;n/a;;n/a;n/a;n/a;n/a;n/a;n/a;;Kateřina;;Korel;Wenzl;;Kl.Chvalovice;36;Anna;Mathias;Mi…sky;;Kl.Chvalovice;63
+279;62;1843;duben;23;43;m;Václav;;n;Foreit;Mathias;;František;;Kl.Chvalovice;43;Kateřina;;Korel;;Kl.Chvalovice;45;;Veronika;;Zikmunda;Johan;;Kl.Chvalovice;34;Magdalena;Václav;H…y;;Kl.Chvalovice;23
+280;63;1843;cerven;21;62;f;Maria;;n;Komžak;Václav;;Wenzl;;Kl.Chvalovice;62;Anna;Johan;Sekot;;Kl.Chvalovice;20;;Anna;;Hn;Josef;;Nová Ves;20;Anna;Josef;Peca;;Kamenná? Lhota;1
+280;64;1843;srpen;24;47;m;Josef;;n;Bartůněk;Josef;;Václav;;Opatovice;46;Barbora;Václav;Kutil;;Opatovice;37;;Anna;;Sekot;Jakub;;Kl.Chvalovice;13;Barbora;Václav;Malina;;Kl.Chvalovice;16
+280;65;1843;srpen;11;19;m;Václav;;n;Zadina;Václav;;Václav;;Kl.Chvalovice;19;Barbora;;Bernat;;Kl.Chvalovice;31;;Barbora;;Jelinek;František;;;15;Magdalena;;Fiala;;Krchlebská? Lhota;8
+281;66;1843;zari;16;1;f;Anna;;n;Bartůněk;Jan;;Josef;;Chvalov?;8;Barbora;Josef;T…s…;familiant;Paběnice;8;;Barbora;;Nevole;Karel;;Kl.Chvalovice;8;Anna;;S…t…;;C…s…cz;1
+281;67;1843;zari;23;40;m;Václav;;n;Schovanec???;Jan;;Wenzl;chalupník???;Kl.Chvalovice;24;Magdalena;Josef;Petz /PecA?;;Lhotka (Kamenná)?;1;;Anna;;Kostelecký?;Wenzl;;Kl.Chvalovice;40;Anna;Josef;Weber;;Kl.Chvalovice;42
